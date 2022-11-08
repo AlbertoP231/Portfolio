@@ -2223,9 +2223,10 @@ input, select, textarea {
 			}
 
 				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
-					color: inherit;
+					color: white;
+					font-weight: 600;
 				}
-
+				
 				#main > section.dark strong {
 					color: #fff;
 					border-color: inherit;
@@ -2248,11 +2249,11 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("https://img.freepik.com/foto-gratis/codificacion-criptomonedas-fondo-azul-digital-concepto-cadena-bloques-codigo-abierto_53876-124644.jpg?size=626&ext=jpg");
 			}
 
 			#main > section.two {
-				background-color: #f5fafa;
+				background-color: #EBF5F5;
 			}
 
 			#main > section.three {
