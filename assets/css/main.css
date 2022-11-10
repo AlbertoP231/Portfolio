@@ -204,6 +204,21 @@ input, select, textarea {
 
 	p, ul, ol, dl, table {
 		margin-bottom: 2em;
+		
+	}
+	.description {
+		color: white;
+		font-weight: 400;
+	}
+	.description_2 {
+		color: black;
+		font-weight: 400;
+
+	}
+	.description_3 {
+		color: black;
+		font-weight: 800;
+
 	}
 
 	br.clear {
